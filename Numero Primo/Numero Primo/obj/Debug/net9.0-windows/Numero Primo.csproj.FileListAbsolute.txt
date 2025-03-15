@@ -1,0 +1,17 @@
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\bin\Debug\net9.0-windows\Numero Primo.exe
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\bin\Debug\net9.0-windows\Numero Primo.deps.json
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\bin\Debug\net9.0-windows\Numero Primo.runtimeconfig.json
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\bin\Debug\net9.0-windows\Numero Primo.dll
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\bin\Debug\net9.0-windows\Numero Primo.pdb
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero_Primo.Form1.resources
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.csproj.GenerateResource.cache
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.AssemblyInfoInputs.cache
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.AssemblyInfo.cs
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.csproj.CoreCompileInputs.cache
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.sourcelink.json
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.dll
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\refint\Numero Primo.dll
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.pdb
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\Numero Primo.genruntimeconfig.cache
+C:\Users\UN\Documents\GitHub\ProyectoFundamentos\Numero Primo\Numero Primo\obj\Debug\net9.0-windows\ref\Numero Primo.dll

@@ -9,8 +9,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\UN\Desktop\Ale\Numero primo.cs" Link="Numero primo.cs" />
-  </ItemGroup>
-
 </Project>
