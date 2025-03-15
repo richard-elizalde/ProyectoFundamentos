@@ -31,6 +31,7 @@
             btnCalcular = new Button();
             lblNumero = new Label();
             nudNumero = new NumericUpDown();
+            btnMostrar = new Button();
             ((System.ComponentModel.ISupportInitialize)nudNumero).BeginInit();
             SuspendLayout();
             // 
@@ -60,11 +61,22 @@
             nudNumero.Size = new Size(263, 23);
             nudNumero.TabIndex = 2;
             // 
+            // btnMostrar
+            // 
+            btnMostrar.Location = new Point(363, 135);
+            btnMostrar.Name = "btnMostrar";
+            btnMostrar.Size = new Size(170, 43);
+            btnMostrar.TabIndex = 3;
+            btnMostrar.Text = "Mostrar Mensajes";
+            btnMostrar.UseVisualStyleBackColor = true;
+            btnMostrar.Click += btnMostrar_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnMostrar);
             Controls.Add(nudNumero);
             Controls.Add(lblNumero);
             Controls.Add(btnCalcular);
@@ -80,5 +92,6 @@
         private Button btnCalcular;
         private Label lblNumero;
         private NumericUpDown nudNumero;
+        private Button btnMostrar;
     }
 }

@@ -6,7 +6,7 @@ namespace Numero_Primo
         {
             InitializeComponent();
         }
-       
+
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             //COMENTARIO PARA COIDOG
@@ -18,19 +18,19 @@ namespace Numero_Primo
             {
 
 
-                if( numero % i == 0)
+                if (numero % i == 0)
                 {
                     Contador++;
                 }
             }
 
-             if (Contador != 2)
+            if (Contador != 2)
 
-             {
-                MessageBox.Show("El numero no es primo" , "aviso" ,MessageBoxButtons.OK , MessageBoxIcon.Exclamation);
-             }
+            {
+                MessageBox.Show("El numero no es primo", "aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
             else
-             {
+            {
                 MessageBox.Show("El numero  es primo", "aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
 
@@ -39,6 +39,17 @@ namespace Numero_Primo
             {
                 MessageBox.Show("Esto es el resultado del for " + i);
             }
+        }
+
+        private void btnMostrar_Click(object sender, EventArgs e)
+        {
+            int i = 1;
+            do
+            {
+                MessageBox.Show("Esto es el resultado del do..while " + i, "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                i++;
+            }
+            while (i < 5);
         }
     }
 }
