@@ -33,6 +33,12 @@ namespace Numero_Primo
              {
                 MessageBox.Show("El numero  es primo", "aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
             }
+
+
+            for (int i = 0; i < 25; i++)
+            {
+                MessageBox.Show("Esto es el resultado del for " + i);
+            }
         }
     }
 }
