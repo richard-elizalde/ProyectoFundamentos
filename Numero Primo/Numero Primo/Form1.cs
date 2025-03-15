@@ -9,7 +9,7 @@ namespace Numero_Primo
        
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-
+            //COMENTARIO PARA COIDOG
             int.TryParse(nudNumero.Text, out int numero);
 
             int Contador = 0;
